@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Useful PoE Tools"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -30,8 +30,8 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_button_text = 'Start Here'
+  homepage_intro = 'Path of Exile is a game that rewards efficiency. Spend less time looking at useless loot, confusing skill trees, and complicated item modifiers with these external tools.'
   homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
