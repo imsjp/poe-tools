@@ -1,7 +1,7 @@
 ---
 title: 'Path of Building'
 date: 2021-11-05 18:07:02
-weight: 6
+weight: 3
 ---
 
 Path of Building is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.
