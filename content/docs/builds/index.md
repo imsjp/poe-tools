@@ -1,6 +1,6 @@
 ---
 title: 'Choosing Your Build'
-date: {{ .Date }}
+date: 2021-11-05 18:06:51
 draft: false
 weight: 4
 summary: The Path of Exile forums provides a great starting point for the type of characters you would like to play.

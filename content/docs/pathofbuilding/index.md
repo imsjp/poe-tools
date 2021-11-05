@@ -1,6 +1,6 @@
 ---
 title: 'Path of Building'
-date: {{ .Date }}
+date: 2021-11-05 18:07:02
 weight: 6
 ---
 
