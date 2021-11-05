@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Choosing Your Build - Useful PoE Tools</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.6719d72e323121369d5caeb4264b95d8a63cf1deaab029da67602fe5a046e0a4.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-docs">
+      <a href="/docs/">
+        <span>Docs</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><img alt="Logo" src="/images/logo.svg" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/"><img alt="Logo" src="/images/logo-mobile.svg" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-docs">
+      <a href="/docs/">
+        <span>Docs</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>Docs</h4>
+  <ul>
+    
+    <li class="">
+      <a href="/docs/install-hugo/">Install Hugo</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/install-theme/">Install Theme</a>
+    </li>
+    
+    <li class="active ">
+      <a href="/docs/builds/">Choosing Your Build</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/specimen/">Specimen</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/pathofbuilding/">Path of Building</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Choosing Your Build</h1>
+<div class="content ">
+  <h2 id="choosing-your-class">Choosing Your Class</h2>
+<p>Visit the <a href="https://www.pathofexile.com/forum">Path of Exile Forums</a> and scroll down to the &lsquo;CLASSES/BUILDS&rsquo; section to view discussions about the seven different classes in the game.</p>
+<p>For safe starting builds, look for titles that include phrases such as: &ldquo;League Starter&rdquo; and &ldquo;All content&rdquo;. These words signal that the class guide will be viable for new players to follow in order to clear what the game offers.</p>
+<p>It is also important to pay attention to the &ldquo;[x.xx]&rdquo; prefix on builds which denotes the version of Path of Exile the build was created for.</p>
+<h2 id="example-of-a-class">Example of a Class</h2>
+<p>Here is <a href="https://www.pathofexile.com/forum/view-thread/2866127">an example of a build guide</a> you may come across on the forums. It is a beginner guide by the player Remi for a Ranger class that focuses on the Toxic Rain skill. The build is &ldquo;all content viable&rdquo; with in-depth information and covers common questions a player might have while playing the build from level 1 to 100.</p>
+<h2 id="path-of-building-note">Path of Building Note</h2>
+<p>Many guides on the forums and around the internet will include a pastebin link for you to import to an external tool called Path of Building. Remi&rsquo;s Toxic Rain guide is no exception. Path of Building (PoB) allows players to view the game&rsquo;s entire skill tree and simulate their skill points and in-game equipment to calculate possible damage. This allows build guide makers to show players where to allocate their skill points and avoid confusion.</p>
+<p>The next section of this guide will cover how to install Path of Building and how to import builds with their pastebin links.</p>
+<h2 id="main-menu">Main menu</h2>
+<p>Configure the main menu by editing the <code>config.toml</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Home&#34;</span>
+<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
+<span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
+
+<span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+<span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Docs&#34;</span>
+<span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
+<span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
+</code></pre></div>
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          <ul>
+            <li class="zerostatic"><a href="https://www.zerostatic.io">www.zerostatic.io</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.eaf147370baecdd07c022597db631f99cab1c9cd6479de586f30327a568d6a0f.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>
