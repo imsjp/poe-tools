@@ -1,6 +1,6 @@
 ---
 title: 'Useful Path of Exile Tools'
-date:  
+date:  {{ .Date }}
 weight: 1
 ---
 
