@@ -6,7 +6,7 @@ weight: 4
 summary: The Path of Exile forums provides a great starting point for the type of characters you would like to play.
 ---
 
-## Choosing Your Class.
+## Choosing Your Class
 
 Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game.
 
@@ -22,8 +22,7 @@ Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thr
 
 Many guides on the forums and around the internet will include a pastebin link for you to import to an external tool called Path of Building. Remi's Toxic Rain guide is no exception. Path of Building (PoB) allows players to view the game's entire skill tree and simulate their skill points and in-game equipment to calculate possible damage. This allows build guide makers to show players where to allocate their skill points and avoid confusion.
 
-
-The next section of this guide will cover how to install Path of Building and how to import builds with their pastebin links. 
+The next section of this guide will cover how to install Path of Building and how to import builds with their pastebin links.
 
 ## Main menu
 
