@@ -16,7 +16,7 @@ The most common hotkeys:
 
 - Pressing `Ctrl+D` while hovering over an item will allow you to price check the item.
 
--Pressing 'Shift+Space' will open the tool's in-game overlay where you'll find the settings.
+- Pressing `Shift+Space` will open the tool's in-game overlay where you'll find the settings.
 
 -
 -
