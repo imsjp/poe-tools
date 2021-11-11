@@ -22,5 +22,8 @@ The most common hotkeys:
 
 - Pressing `Shift+Space` will open the tool's in-game overlay where you'll find the settings.
 
--
--
+  - You can change or assign new hotkeys from within the in-game overlay.
+
+- Pressing `F5` will send the `/hideout` command if your character is in a town or another player's hideout.
+
+//TODO: Screenshots and more hotkeys.

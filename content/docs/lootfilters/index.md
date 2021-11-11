@@ -22,8 +22,10 @@ As of Patch 3.15, players can hide filtered items from rendering as drops. This 
 
 ### Customizing Loot Filters
 
-NeverSink, the creator of the most-popular loot filters, has a public website for players to customize loot filters as they wish. 
+NeverSink, the creator of the most-popular loot filters, has a public website for players to customize loot filters as they wish.
 
 The website is called [FilterBlade](https://www.filterblade.xyz/) and provides a wide variety of customization from colors palettes to new drop sounds.
 
 If the default filters don't match the colors you'd like, feel free to customize them to your liking!
+
+//TODO: Add pictures of lootfilter in action.

@@ -24,3 +24,4 @@ Many guides on the forums and around the internet will include a pastebin link f
 
 The next section of this guide will cover how to install Path of Building and how to import builds with their pastebin links.
 
+//TODO: Break word blocks into smaller pieces. Go through the entire forum post/In-depth "how would I read this guide as a new player".
