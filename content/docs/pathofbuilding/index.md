@@ -8,7 +8,7 @@ Path of Building is a tool that allows Path of Exile players to simulate the ski
 
 <!--more-->
 
-## Installing Path of Building Community Fork
+## Installing PoB Community Fork
 
 Note that the original Path of Building is no longer supported, and users must download and install the [Path of Building Community Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases). It is recommended to use the Setup-x.exe for convenience.
 
@@ -32,3 +32,5 @@ Then, select 'Edit privacy settings' on the right-side of the page and uncheck '
 Back in Path of Building:
 Under Character Import in the 'Import/Export Build' screen, enter your Path of Exile account name and select 'Start'.
 The program will retrieve a list of your characters for you to select. Once you have confirmed the character whose information you'd like to import, click on both 'Passive Tree and Jewels' and 'Items and Skills'. Click done once you have finished
+
+//TODO: Make these instructions lists

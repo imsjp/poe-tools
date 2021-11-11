@@ -24,18 +24,3 @@ Many guides on the forums and around the internet will include a pastebin link f
 
 The next section of this guide will cover how to install Path of Building and how to import builds with their pastebin links.
 
-## Main menu
-
-Configure the main menu by editing the `config.toml`
-
-```toml
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Docs"
-url = "/docs/"
-weight = 2
-```
