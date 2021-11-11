@@ -8,7 +8,7 @@ summary: The Path of Exile forums provides a great starting point for the type o
 
 ## Choosing Your Class
 
-Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game. Six of the seven classes break down into 3 separate, more specific ['ascendencies'](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
+Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game. Six of the seven classes break down into 3 separate, more specific ['ascendancies'](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
 
 For safe starting builds, look for titles that include phrases such as: "League Starter" and "All content". These words signal that the class guide will be viable for new players to follow in order to clear (most of) what the game offers.
 
