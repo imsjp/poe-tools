@@ -14,15 +14,15 @@ Note that the original Path of Building is no longer supported, and users must i
 
 Once downloaded, open the wizard to install the program.
 
-## Importing a Build from Pastebin
+### Importing a Build from Pastebin
 
-One key feature of Path of Building is the ability to import and export builds with ease via pastebin. These pastebin links are safe and contain the string of characters that defines a build in PoB.
+Path of Building features the ability to import and export builds with ease via pastebin. These pastebin links are safe and contain the string of characters that defines a build in PoB.
 
 Open Path of Building and navigate to the top-left corner of the program. Select the 'Import/Export Build' button. There will be two sections here. For the purpose of this section, focus on the 'Build Sharing' section on the bottom.
 
 Select the 'Import from website...' button which allows you to copy and paste a pastebin link to import a build.
 
-## Importing Your Own Character
+### Importing Your Own Character
 
 Path of Building allows convenient access to your own character's skill tree and their current equipment.
 
@@ -31,4 +31,4 @@ Then, select 'Edit privacy settings' on the right-side of the page and uncheck '
 
 Back in Path of Building:
 Under Character Import in the 'Import/Export Build' screen, enter your Path of Exile account name and select 'Start'.
-The program will retrieve a list of your characters for you to select. Once you have confirmed the character whose information you'd like to click on both 'Passive Tree and Jewels' and 'Items and Skills'. Click done once you have finished
+The program will retrieve a list of your characters for you to select. Once you have confirmed the character whose information you'd like to import, click on both 'Passive Tree and Jewels' and 'Items and Skills'. Click done once you have finished
