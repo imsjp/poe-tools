@@ -10,13 +10,17 @@ summary: The Path of Exile forums provides a great starting point for the type o
 
 Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game.
 
-For safe starting builds, look for titles that include phrases such as: "League Starter" and "All content". These words signal that the class guide will be viable for new players to follow in order to clear what the game offers.
+For safe starting builds, look for titles that include phrases such as: "League Starter" and "All content". These words signal that the class guide will be viable for new players to follow in order to clear (most of) what the game offers.
 
 It is also important to pay attention to the "[x.xx]" prefix on builds which denotes the version of Path of Exile the build was created for.
 
+Popular builds can be found by viewing [poe.ninja](https://poe.ninja/challenge/builds) and checking the % of people playing certain classes broken down by ascendancy and main skill.
+
+As each new major patch brings about skill changes and power adjustments, the meta or popular builds will also change to reflect that.
+
 ## Example of a Class
 
-Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thread/2866127) you may come across on the forums. It is a beginner guide by the player Remi for a Ranger class that focuses on the Toxic Rain skill. The build is "all content viable" with in-depth information and covers common questions a player might have while playing the build from level 1 to 100.
+Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thread/2866127) you may come across on the forums. It is a beginner guide by the player Remi for a Ranger class in Patch 3.16 that focuses on the Toxic Rain skill. The ascendancy under the Ranger class is Deadeye. The build is "all content viable" with in-depth information and covers common questions a player might have while playing the build from level 1 to 100.
 
 ## Path of Building Note
 
