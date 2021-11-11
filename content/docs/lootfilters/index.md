@@ -6,7 +6,9 @@ weight: 4
 
 Loot filters allow you to decrease the amount of items that appear on the ground for you to click. This increases in-game efficiency with less time spent looking at low-value items.
 
-### Recommended: Public Loot Filters
+<!--more-->
+
+## Recommended: Public Loot Filters
 
 The most popular loot filters used in the game are created by NeverSink and can be found on [his PathofExile profile](https://www.pathofexile.com/account/view-profile/NeverSink/item-filters). At the top-right corner of each filter level, select 'FOLLOW'.
 

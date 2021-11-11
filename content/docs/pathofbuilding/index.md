@@ -14,7 +14,7 @@ Note that the original Path of Building is no longer supported, and users must d
 
 Once downloaded, open the wizard to install the program.
 
-### Importing a Build from Pastebin
+## Importing a Build from Pastebin
 
 Path of Building features the ability to import and export builds with ease via pastebin. These pastebin links are safe and contain the string of characters that defines a build in PoB.
 
@@ -22,7 +22,7 @@ Open Path of Building and navigate to the top-left corner of the program. Select
 
 Select the 'Import from website...' button which allows you to copy and paste a pastebin link to import a build.
 
-### Importing Your Own Character
+## Importing Your Own Character
 
 Path of Building allows convenient access to your own character's skill tree and their current equipment.
 
