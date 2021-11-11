@@ -10,7 +10,7 @@ Path of Building is a tool that allows Path of Exile players to simulate the ski
 
 ## Installing Path of Building Community Fork
 
-Note that the original Path of Building is no longer supported, and users must install the [Path of Building Community Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases). It is recommended to use the Setup-x.exe for convenience.
+Note that the original Path of Building is no longer supported, and users must download and install the [Path of Building Community Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases). It is recommended to use the Setup-x.exe for convenience.
 
 Once downloaded, open the wizard to install the program.
 
