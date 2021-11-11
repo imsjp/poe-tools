@@ -6,6 +6,8 @@ weight: 6
 
 Exilence Next is an app that lets you track your income and networth in game based off the items in your storage tabs.
 
+<!--more-->
+
 ## Exilence Next
 
 Download and install the latest stable version of the program from the [developer's github page](https://github.com/viktorgullmark/exilence-next/releases/latest).
