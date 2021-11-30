@@ -31,6 +31,6 @@ Then, select **Edit privacy settings** on the right-side of the page and uncheck
 
 Back in Path of Building:
 Under *Character Import* in the 'Import/Export Build' screen, enter your Path of Exile account name and select **Start**.
-The program will retrieve a list of your characters for you to select. Once you have confirmed the character whose information you'd like to import, click both **Passive Tree and Jewels** and **Items and Skills**. Click **done** once you have finished
+The program will retrieve a list of your characters for you to select. Once you have confirmed the character whose information you'd like to import, click both **Passive Tree and Jewels** and **Items and Skills**. Click **done** once you have finished.
 
 //TODO: Make these instructions lists. Add pictures.
