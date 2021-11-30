@@ -10,13 +10,14 @@ Loot filters allow you to decrease the amount of items that appear on the ground
 
 ## NeverSink Loot Filters
 
-The most popular loot filters used in the game are created by NeverSink and can be found on [his PathofExile profile](https://www.pathofexile.com/account/view-profile/NeverSink/item-filters). At the top-right corner of each filter level, select 'FOLLOW'.
+The most popular loot filters used in the game are created by NeverSink and can be found on [his PathofExile profile](https://www.pathofexile.com/account/view-profile/NeverSink/item-filters). At the top-right corner of each filter level, select **FOLLOW**.
 
 The filters will populate when you login to the game in the options menu.
 
-The 'strict' level filter is the recommended item filter for most players.
+The *strict* level filter is the recommended item filter for most players.
 
 As an example of how the loot filters work:
+[insert image]
 
 As of Patch 3.15, players can hide filtered items from rendering as drops. This increases in-game performance by a large margin, making loot filters even more important.
 
@@ -26,6 +27,6 @@ NeverSink, the creator of the most-popular loot filters, has a public website fo
 
 The website is called [FilterBlade](https://www.filterblade.xyz/) and provides a wide variety of customization from colors palettes to new drop sounds.
 
-If the default filters don't match the colors you'd like, feel free to customize them to your liking!
+If the default filters don't match the colors you'd like to see in-game, feel free to customize them to your liking!
 
 //TODO: Add pictures of lootfilter in action.
