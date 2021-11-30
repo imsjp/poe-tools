@@ -19,4 +19,4 @@ The app has a helpful introduction to get you started.
 
 Exilence is great to use at all stages of the game. It provides you a concrete exchange value for all of the 'minor' currencies between chaos and exalted orbs.
 
-Once you begin currency making strategies, the currency per hour function becomes especially useful as a measurement of efficiency.
+Once you begin currency making strategies, the currency per hour function helps measure efficiency.
