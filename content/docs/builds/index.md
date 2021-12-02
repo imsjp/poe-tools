@@ -14,9 +14,9 @@ The Path of Exile forums provides a great starting point for the type of charact
 
 Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game. Six of the seven classes break down into 3 separate, more specific ['ascendancies'](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
 
-For beginner-friendly starting builds, look for titles that include phrases such as: "League Starter" and "All content". These words signal that the class guide was created with new players in mind.
+For beginner-friendly starting builds, look for titles that include phrases such as: **League Starter**" and **All content viable**. These words signal that the class guide was created with new players in mind.
 
-It is also important to pay attention to the "[x.xx]" prefix on builds which denotes the version of Path of Exile the build was created for.
+It is also important to pay attention to the **[x.xx]** prefix on builds which denotes the version of Path of Exile the build was created for.
 
 Popular builds can be found by viewing [poe.ninja](https://poe.ninja/challenge/builds) and checking the % of people playing certain classes broken down by ascendancy and main skill.
 
