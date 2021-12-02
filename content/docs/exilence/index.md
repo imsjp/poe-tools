@@ -4,7 +4,7 @@ date: 2021-11-11 15:33:21
 weight: 6
 ---
 
-Exilence Next is an app that lets you track your income and networth in game based off the items in your storage tabs.
+Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.
 
 <!--more-->
 
