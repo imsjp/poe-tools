@@ -4,7 +4,7 @@ date: 2021-11-05 18:07:02
 weight: 3
 ---
 
-Path of Building is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.
+Path of Building (PoB) is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.
 
 <!--more-->
 

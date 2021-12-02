@@ -12,17 +12,17 @@ The Path of Exile forums provides a great starting point for the type of charact
 
 ## Choosing Your Class
 
-Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the 'CLASSES/BUILDS' section to view discussions about the seven different classes in the game. 
+Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the **CLASSES/BUILDS** section to view discussions about the seven different classes in the game.
 
-Six of the seven classes break down into 3 separate, more specific ['ascendancies'](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
+Six of the seven classes break down into three separate, more specific [**ascendancies**](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
 
 For beginner-friendly starting builds, look for titles that include phrases such as: **League Starter** and **All content viable**. These words signal that the class guide was created with new players in mind.
 
 The **[x.xx]** prefix on builds denotes the version of Path of Exile the build was created for.
 
-Popular builds can be found by visiting [poe.ninja](https://poe.ninja/challenge/builds) and checking the percent of high-level playing certain classes.
+Popular builds can be found by visiting [poe.ninja](https://poe.ninja/challenge/builds) and checking the percentage of high-level playing certain classes.
 
-As each new major patch brings about skill changes and power adjustments, the meta or popular builds will also change to reflect that.
+Popular builds change each season to reflect skill changes and power adjustments from major patches.
 
 ## Example of a Class
 
