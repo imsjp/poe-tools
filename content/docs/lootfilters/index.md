@@ -40,5 +40,3 @@ NeverSink, the creator of the most-popular loot filters, has a public website fo
 The website is called [FilterBlade](https://www.filterblade.xyz/) and provides a wide variety of customization from colors palettes to new drop sounds.
 
 If the default filters don't match the colors you'd like to see in-game, feel free to customize them to your liking!
-
-//TODO: Add pictures of lootfilter in action.
