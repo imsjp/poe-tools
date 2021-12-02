@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Useful PoE Tools"
 themesDir = "themes"
-theme = "hugo-whisper-theme2"
+theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
