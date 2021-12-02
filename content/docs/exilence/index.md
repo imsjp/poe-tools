@@ -18,7 +18,7 @@ The program has an account integration function to get started quickly.
 
 Log into your Path of Exile account and Authorize Exilence access to view your stashes and items.
 
-Exilence is great to use at all stages of the game. It tracks and provides a concrete chaos orb or exalted orb value for the selected stash tabs. 
+Exilence is great to use at all stages of the game. It tracks and provides a concrete chaos orb or exalted orb value for the selected stash tabs.
 
 ![](2021-12-02-02-14-30.png)
 
