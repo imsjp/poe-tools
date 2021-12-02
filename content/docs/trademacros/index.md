@@ -14,9 +14,9 @@ Trade macros are external tools that allow players to check item values and trad
 
 The tool updates automatically if you use the installer on Windows.
 
-One caveat of using Awakened PoE Trade is that the game must be ran in Windowed or Windowed Fullscreen mode.
+Run the game in Windowed or Windowed-Fullscreen mode for the program to function properly.
 
-The most common hotkeys:
+Common hotkeys:
 
 - Pressing `Ctrl+D` while hovering over an item will allow you to price check the item.
 
@@ -26,4 +26,4 @@ The most common hotkeys:
 
 - Pressing `F5` will send the `/hideout` command if your character is in a town or another player's hideout.
 
-//TODO: Screenshots and more hotkeys.
+//TODO: Screenshots

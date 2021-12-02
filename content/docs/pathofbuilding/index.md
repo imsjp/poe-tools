@@ -12,15 +12,24 @@ Path of Building is a tool that allows Path of Exile players to simulate the ski
 
 Note that the original Path of Building is no longer supported, and users must download and install the [Path of Building Community Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases). It is recommended to use the Setup-x.exe for convenience.
 
-Once downloaded, open the wizard to install the program.
+Once downloaded, run the installer for the program.
 
 ## Importing a Build from Pastebin
 
 Path of Building features the ability to import and export builds with ease via pastebin links. These pastebin links are safe and contain the string of characters that defines a build in PoB.
 
-Open Path of Building and navigate to the top-left corner of the program. Select **Import/Export Build**. There will be two sections here. For the purpose of this section, focus on the **Build Sharing** section on the bottom.
+Open Path of Building and navigate to the top-left corner of the program. Select **Import/Export Build**. 
+![pob1](/images/pob1.png)
+
+There will be two sections here. For the purpose of this section, focus on the **Build Sharing** section on the bottom.
+
 
 Select **Import from website...** to copy and paste a pastebin link with build information.
+![pob2](/images/pob2.png)
+![pob3](/images/pob3.png)
+
+Select **Import** after confirming the pastebin link imported the build code.
+![pob4](/images/pob4.png)
 
 ## Importing Your Own Character
 
