@@ -18,8 +18,14 @@ The program has an account integration function to get started quickly.
 
 Log into your Path of Exile account and Authorize Exilence access to view your stashes and items.
 
-Exilence is great to use at all stages of the game. It tracks and provides a concrete chaos orb or exalted orb value for the selected stash tabs.
+### Exilence is Always Useful
+
+Newer players will find Exilence's break down of individual currency conversions helpful in understanding the combined value of smaller currencies.
+
+Exilence tracks and provides a chaos orb value for the selected stash tabs at regular intervals.
+
+Having a visual representation of wealth is one reason many players enjoy Path of Exile.
 
 ![](2021-12-02-02-14-30.png)
 
-Once you begin currency making strategies, the currency per hour function helps measure efficiency.
+Once you begin currency making strategies, the currency per hour function helps track efficiency.

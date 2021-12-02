@@ -26,21 +26,20 @@ Popular builds change each season to reflect skill changes and power adjustments
 
 ## Example of a Class
 
-Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thread/2866127) you may come across on the forums. 
+Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thread/2866127) you may come across on the forums.
 
-It is a beginner guide written by the player Remi for a Ranger class in Patch 3.16 that focuses on the Toxic Rain skill. 
+It is a beginner guide written by the player Remi for a Ranger class in Patch 3.16 that focuses on the Toxic Rain skill.
 
-The ascendancy under the Ranger class is Deadeye. 
+The ascendancy within the Ranger class is Deadeye.
 
 The build is "all content viable" with in-depth information and covers common questions a player might have while playing the build from level 1 to 100.
 
 ## Path of Building Note
 
-Many guides on the forums and around the internet will include a pastebin link for you to import to an external tool called Path of Building. 
+Many guides on the forums and around the internet will include a pastebin link for you to import to an external tool called Path of Building.
 
-Remi's Toxic Rain guide is no exception. Path of Building (PoB) allows players to view the game's entire skill tree and simulate their skill points and in-game equipment to calculate possible damage. 
+Remi's Toxic Rain guide is no exception. Path of Building (PoB) allows players to view the game's entire skill tree and simulate their skill points and in-game equipment to calculate possible damage.
 
 This allows build guide makers to show players where to allocate their skill points and avoid confusion.
 
-The [Path of Building](/docs/pathofbuilding) section of this guide will cover how to install Path of Building and how to import builds with their pastebin links.
-
+The [Path of Building](/docs/pathofbuilding) section of this site will cover how to install Path of Building and how to import builds with their pastebin links.
