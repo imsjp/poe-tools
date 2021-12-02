@@ -24,8 +24,7 @@ Open Path of Building and navigate to the top-left corner of the program. Select
 
 There will be two sections here. For the purpose of this section, focus on the **Build Sharing** section on the bottom.
 
-
-Select **Import from website...** 
+Select **Import from website...**
 
 ![](2021-12-02-01-15-03.png)
 
@@ -59,7 +58,7 @@ Under **Character Import** in the **Import/Export Build** screen, enter your Pat
 ![](2021-12-02-01-29-35.png)
 
 The program will retrieve a list of your characters for you to select. 
-Once you have confirmed the character whose information you'd like to import, click both **Passive Tree and Jewels** and **Items and Skills**. 
+Once you have confirmed the character whose information you'd like to import, click both **Passive Tree and Jewels** and **Items and Skills**.
 
 ![](2021-12-02-01-29-54.png)
 
