@@ -12,11 +12,14 @@ Exilence Next is an app that lets you track your income and networth in game bas
 
 Download and install the latest stable version of the program from the [developer's github page](https://github.com/viktorgullmark/exilence-next/releases/latest).
 
-The program has account integration functions for you to simply log into your Path of Exile account to get started.
+The program has an account integration function to get started quickly.
 
-Authorize Exilence access to view your stashes and items after logging in.
-The app has a helpful introduction to get you started.
+![](2021-12-02-02-16-36.png)
 
-Exilence is great to use at all stages of the game. It provides you a concrete exchange value for all of the 'minor' currencies between chaos and exalted orbs.
+Log into your Path of Exile account and Authorize Exilence access to view your stashes and items.
+
+Exilence is great to use at all stages of the game. It tracks and provides a concrete chaos orb or exalted orb value for the selected stash tabs. 
+
+![](2021-12-02-02-14-30.png)
 
 Once you begin currency making strategies, the currency per hour function helps measure efficiency.
