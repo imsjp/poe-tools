@@ -19,7 +19,7 @@ Once downloaded, run the installer for the program.
 Path of Building features the ability to import and export builds with ease via pastebin links. These pastebin links are safe and contain the string of characters that defines a build in PoB.
 
 Open Path of Building and navigate to the top-left corner of the program. Select **Import/Export Build**. 
-![](2021-12-02-01-14-44.png)
+![](2021-12-02-01-33-08.png)
 
 There will be two sections here. For the purpose of this section, focus on the **Build Sharing** section on the bottom.
 
@@ -62,5 +62,3 @@ Once you have confirmed the character whose information you'd like to import, cl
 ![](2021-12-02-01-29-54.png)
 
 Click **done** once you have finished.
-
-//TODO: Make these instructions lists. Add pictures.
