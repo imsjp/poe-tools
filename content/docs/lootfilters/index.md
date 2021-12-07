@@ -35,8 +35,8 @@ The option can be found on the same **Game** options sub-menu.
 
 ### Customizing Loot Filters
 
-NeverSink, the creator of the most-popular loot filters, has a public website for players to customize loot filters as they wish.
+NeverSink has a public website, [FilterBlade](https://www.filterblade.xyz/), for players to customize loot filters to their liking.
 
-The website is called [FilterBlade](https://www.filterblade.xyz/) and provides a wide variety of customization from colors palettes to new drop sounds.
+FilterBlade provides a wide variety of customization features from colors palettes to new drop sounds.
 
-If the default filters don't match the colors you'd like to see in-game, feel free to customize them to your liking!
+If the default filters don't match the colors or sounds you'd like to see and hear in-game, feel free to customize them to your liking!
