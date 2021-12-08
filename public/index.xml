@@ -8,12 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Nov 2021 18:07:50 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Choosing Your Build</title>
+      <title>Builds in Path of Exile</title>
       <link>/docs/builds/</link>
       <pubDate>Fri, 05 Nov 2021 18:06:51 +0000</pubDate>
       
       <guid>/docs/builds/</guid>
-      <description>&lt;p&gt;The Path of Exile forums provides a great starting point for the type of characters you would like to play.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#choosing-your-class&#34;&gt;Choosing Your Class&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#example-of-a-class&#34;&gt;Example of a Class&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#path-of-building-note&#34;&gt;Path of Building Note&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Path of Exile forums provides a great starting point for the type of characters you would like to play.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +27,12 @@
       <pubDate>Fri, 05 Nov 2021 18:07:02 +0000</pubDate>
       
       <guid>/docs/pathofbuilding/</guid>
-      <description>&lt;p&gt;Path of Building (PoB) is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#installing-pob-community-fork&#34;&gt;Installing PoB Community Fork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#importing-a-build-from-pastebin&#34;&gt;Importing a Build from Pastebin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#importing-your-own-character&#34;&gt;Importing Your Own Character&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Path of Building (PoB) is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +41,11 @@
       <pubDate>Thu, 11 Nov 2021 11:45:04 +0000</pubDate>
       
       <guid>/docs/lootfilters/</guid>
-      <description>&lt;p&gt;Loot filters allow you to decrease the amount of items that appear on the ground for you to click. 
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#neversink-loot-filters&#34;&gt;NeverSink Loot Filters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#customizing-loot-filters&#34;&gt;Customizing Loot Filters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Loot filters allow you to decrease the amount of items that appear on the ground for you to click.
 This increases in-game efficiency with less time spent looking at low-value items.&lt;/p&gt;</description>
     </item>
     
@@ -50,7 +64,11 @@ This increases in-game efficiency with less time spent looking at low-value item
       <pubDate>Thu, 11 Nov 2021 15:33:21 +0000</pubDate>
       
       <guid>/docs/exilence/</guid>
-      <description>&lt;p&gt;Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#exilence-next&#34;&gt;Exilence Next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#exilence-is-always-useful&#34;&gt;Exilence is Always Useful&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.&lt;/p&gt;</description>
     </item>
     
   </channel>
