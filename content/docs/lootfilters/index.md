@@ -25,11 +25,11 @@ This is the loot from one pack of mobs without a loot filter:
 
 ![](2021-12-02-02-09-59.png)
 
-This is the same loot with the semi-strict loot filter applied:
+The same loot with the semi-strict loot filter applied:
 
 ![](2021-12-02-01-58-03.png)
 
-Players can also hide filtered items from rendering as drops to in-game performance by a large margin.
+Players can also hide filtered items from rendering as drops to improve in-game performance by a large margin.
 
 The option can be found on the same **Game** options sub-menu.
 
