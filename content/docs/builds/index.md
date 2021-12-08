@@ -1,12 +1,16 @@
 ---
-title: 'Choosing Your Build'
+title: 'Builds in Path of Exile'
 date: 2021-11-05 18:06:51
 draft: false
 weight: 2
 
 ---
 
-The Path of Exile forums provides a great starting point for the type of characters you would like to play. 
+- [Choosing Your Class](#choosing-your-class)
+- [Example of a Class](#example-of-a-class)
+- [Path of Building Note](#path-of-building-note)
+
+The Path of Exile forums provides a great starting point for the type of characters you would like to play.
 
 <!--more-->
 

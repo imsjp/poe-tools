@@ -4,6 +4,9 @@ date: 2021-11-11 15:33:21
 weight: 6
 ---
 
+- [Exilence Next](#exilence-next)
+- [Exilence is Always Useful](#exilence-is-always-useful)
+
 Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.
 
 <!--more-->
@@ -18,7 +21,7 @@ The program has an account integration function to get started quickly.
 
 Log into your Path of Exile account and Authorize Exilence access to view your stashes and items.
 
-### Exilence is Always Useful
+## Exilence is Always Useful
 
 Newer players will find Exilence's break down of individual currency conversions helpful in understanding the combined value of smaller currencies.
 
