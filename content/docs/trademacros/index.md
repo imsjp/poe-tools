@@ -25,5 +25,4 @@ Common hotkeys:
   - You can change or assign new hotkeys from within the in-game overlay.
 
 - Pressing `F5` will send the `/hideout` command if your character is in a town or another player's hideout.
-
-//TODO: Screenshots
+  

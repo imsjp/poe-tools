@@ -4,7 +4,10 @@ date: 2021-11-11 11:45:04
 weight: 4
 ---
 
-Loot filters allow you to decrease the amount of items that appear on the ground for you to click. 
+- [NeverSink Loot Filters](#neversink-loot-filters)
+- [Customizing Loot Filters](#customizing-loot-filters)
+
+Loot filters allow you to decrease the amount of items that appear on the ground for you to click.
 This increases in-game efficiency with less time spent looking at low-value items.
 
 <!--more-->
@@ -19,7 +22,7 @@ The filters will populate when you login to the game under the **Game** options 
 
 ![](2021-12-02-01-51-17.png)
 
-The **semi-strict** level filter is the recommended item filter for newer players. 
+The **semi-strict** level filter is the recommended item filter for newer players.
 
 This is the loot from one pack of mobs without a loot filter:
 
@@ -29,11 +32,11 @@ The same loot with the semi-strict loot filter applied:
 
 ![](2021-12-02-01-58-03.png)
 
-Players can also hide filtered items from rendering as drops to improve in-game performance by a large margin.
+Hiding filtered items from rendering as drops improves in-game performance by  large margin.
 
 The option can be found on the same **Game** options sub-menu.
 
-### Customizing Loot Filters
+## Customizing Loot Filters
 
 NeverSink has a public website, [FilterBlade](https://www.filterblade.xyz/), for players to customize loot filters to their liking.
 
