@@ -17,7 +17,7 @@ Download and install the latest stable version of the program from the [develope
 
 The program has an account integration function to get started quickly.
 
-![](2021-12-02-02-16-36.png)
+![ExilenceLogin](2021-12-02-02-16-36.png)
 
 Log into your Path of Exile account and Authorize Exilence access to view your stashes and items.
 
@@ -29,6 +29,6 @@ Exilence tracks and provides a chaos orb value for the selected stash tabs at re
 
 Having a visual representation of wealth is one reason many players enjoy Path of Exile.
 
-![](2021-12-02-02-14-30.png)
+![ExilenceShowcase](2021-12-02-02-14-30.png)
 
 Once you begin currency making strategies, the currency per hour function helps track efficiency.

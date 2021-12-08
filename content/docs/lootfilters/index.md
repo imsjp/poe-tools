@@ -16,21 +16,21 @@ This increases in-game efficiency with less time spent looking at low-value item
 
 The most popular loot filters used in the game are created by NeverSink and can be found on [his PathofExile profile](https://www.pathofexile.com/account/view-profile/NeverSink/item-filters). At the top-right corner of the filters you'd like to use, select **FOLLOW**.
 
-![](2021-12-02-01-49-59.png)
+![NeverSink filter highlight](2021-12-02-01-49-59.png)
 
 The filters will populate when you login to the game under the **Game** options sub-menu.
 
-![](2021-12-02-01-51-17.png)
+![PoE menu for filters](2021-12-02-01-51-17.png)
 
 The **semi-strict** level filter is the recommended item filter for newer players.
 
 This is the loot from one pack of mobs without a loot filter:
 
-![](2021-12-02-02-09-59.png)
+![Loot without filter](2021-12-02-02-09-59.png)
 
 The same loot with the semi-strict loot filter applied:
 
-![](2021-12-02-01-58-03.png)
+![Loot with filter](2021-12-02-01-58-03.png)
 
 Hiding filtered items from rendering as drops improves in-game performance by  large margin.
 
