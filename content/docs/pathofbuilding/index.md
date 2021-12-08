@@ -4,13 +4,13 @@ date: 2021-11-05 18:07:02
 weight: 3
 ---
 
-- [Installing PoB Community Fork](#installing-pob-community-fork)
-- [Importing a Build from Pastebin](#importing-a-build-from-pastebin)
-- [Importing Your Own Character](#importing-your-own-character)
-
 Path of Building (PoB) is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.
 
 <!--more-->
+
+- [Installing PoB Community Fork](#installing-pob-community-fork)
+- [Importing a Build from Pastebin](#importing-a-build-from-pastebin)
+- [Importing Your Own Character](#importing-your-own-character)
 
 ## Installing PoB Community Fork
 

@@ -6,13 +6,13 @@ weight: 2
 
 ---
 
-- [Choosing Your Class](#choosing-your-class)
-- [Example of a Class](#example-of-a-class)
-- [Path of Building Note](#path-of-building-note)
-
 The Path of Exile forums provides a great starting point for the type of characters you would like to play.
 
 <!--more-->
+
+- [Choosing Your Class](#choosing-your-class)
+- [Example of a Class](#example-of-a-class)
+- [Path of Building Note](#path-of-building-note)
 
 ## Choosing Your Class
 

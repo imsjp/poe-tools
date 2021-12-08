@@ -4,13 +4,13 @@ date: 2021-11-11 11:45:04
 weight: 4
 ---
 
-- [NeverSink Loot Filters](#neversink-loot-filters)
-- [Customizing Loot Filters](#customizing-loot-filters)
-
 Loot filters allow you to decrease the amount of items that appear on the ground for you to click.
 This increases in-game efficiency with less time spent looking at low-value items.
 
 <!--more-->
+
+- [NeverSink Loot Filters](#neversink-loot-filters)
+- [Customizing Loot Filters](#customizing-loot-filters)
 
 ## NeverSink Loot Filters
 
