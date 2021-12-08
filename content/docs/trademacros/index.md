@@ -7,6 +7,7 @@ weight: 5
 Trade macros are external tools that allow players to check item values and trade for items with other players more easily.
 
 <!--more-->
+- [Awakened PoE Trade](#awakened-poe-trade)
 
 ## Awakened PoE Trade
 
