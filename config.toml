@@ -42,7 +42,7 @@ summaryLength = 30
     meta_og_title = "PoE Tools"
     meta_og_type = "website"
     meta_og_url = "https://poetools.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_image = "https://i.imgur.com/Fpn4rk3.png"
     meta_og_description = "Path of Exile tools to improve in-game efficiency."
 
   [params.logo]
