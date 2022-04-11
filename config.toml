@@ -31,6 +31,7 @@ summaryLength = 30
     name = "Resources"
     url = "/resources/"
     weight = 3
+    
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
