@@ -29,9 +29,9 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Resources"
-    url = "/resources/"
+    url = "/docs/resources/"
     weight = 3
-    
+
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
