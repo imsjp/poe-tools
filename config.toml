@@ -23,7 +23,7 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
+    name = "Tools"
     url = "/docs/"
     weight = 2
 
