@@ -14,21 +14,21 @@ The Path of Exile forums provides a great starting point for the type of charact
 
 Visit the [Path of Exile Forums](https://www.pathofexile.com/forum) and scroll down to the **CLASSES/BUILDS** section to view discussions about the seven different classes in the game.
 
-Six of the seven classes break down into three separate, more specific [**ascendancies**](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs.
+Six of the seven classes break down into three separate, more specific [**ascendancies**](https://www.pathofexile.com/ascendancy/classes) which each carry their own powerful unique skills and buffs to differentiate themselves even within a major class archetype.
 
 For beginner-friendly starting builds, look for titles that include phrases such as: **League Starter** and **All content viable**. These words signal that the class guide was created with new players in mind.
 
 The **[x.xx]** prefix on builds denotes the version of Path of Exile the build was created for.
 
-Popular builds can be found by visiting [poe.ninja](https://poe.ninja/challenge/builds) and checking the percentage of high-level playing certain classes.
+Find popular builds by visiting [poe.ninja](https://poe.ninja/challenge/builds) and checking the percentage of high-level playing certain classes.
 
-Popular builds change each season to reflect skill changes and power adjustments from major patches.
+Popular builds change each season to reflect skill changes and power adjustments from major patches. You may see the word "meta" referring to popular builds within a patch.
 
 ## Example of a Class
 
 Here is [an example of a build guide](https://www.pathofexile.com/forum/view-thread/2866127) you may come across on the forums.
 
-It is a beginner guide written by the player Remi for a Ranger class in Patch 3.16 that focuses on the Toxic Rain skill.
+Remi wrote this beginner's guide for a Ranger class in Patch 3.16 that focuses on the Toxic Rain skill.
 
 The ascendancy within the Ranger class is Deadeye.
 
