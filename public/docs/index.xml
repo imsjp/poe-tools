@@ -53,5 +53,15 @@ This increases in-game efficiency with less time spent looking at low-value item
       <description>&lt;p&gt;Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Additional Resources</title>
+      <link>/docs/additionalresources/</link>
+      <pubDate>Mon, 11 Apr 2022 10:45:56 +0000</pubDate>
+      
+      <guid>/docs/additionalresources/</guid>
+      <description>The main &amp;lsquo;tools&amp;rsquo; section of this site covers the most common tools and resources available for new players.
+This section will point players towards more advanced or in-depth resources if they wish to dig deeper into Path of Exile!</description>
+    </item>
+    
   </channel>
 </rss>

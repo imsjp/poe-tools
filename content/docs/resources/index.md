@@ -1,7 +1,7 @@
 ---
 title: 'Additional Resources'
 date: 2022-04-11 10:45:56
-weight: 1
+weight: 10
 ---
 
 The main 'tools' section of this site covers the most common tools and resources available for new players.
