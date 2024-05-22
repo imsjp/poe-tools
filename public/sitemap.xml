@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2021-11-05T18:07:10+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/</loc>
+    <loc>/tools/</loc>
     <lastmod>2021-11-05T18:07:10+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/builds/</loc>
+    <loc>/docs/builds/</loc>
     <lastmod>2021-11-05T18:06:51+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/builds/</loc>
+    <loc>/tools/builds/</loc>
     <lastmod>2021-11-05T18:06:51+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/pathofbuilding/</loc>
+    <loc>/docs/pathofbuilding/</loc>
     <lastmod>2021-11-05T18:07:02+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/pathofbuilding/</loc>
+    <loc>/tools/pathofbuilding/</loc>
     <lastmod>2021-11-05T18:07:02+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/lootfilters/</loc>
+    <loc>/docs/lootfilters/</loc>
     <lastmod>2021-11-11T11:45:04+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/lootfilters/</loc>
+    <loc>/tools/lootfilters/</loc>
     <lastmod>2021-11-11T11:45:04+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/trademacros/</loc>
+    <loc>/docs/trademacros/</loc>
     <lastmod>2021-11-11T12:09:11+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/trademacros/</loc>
+    <loc>/tools/trademacros/</loc>
     <lastmod>2021-11-11T12:09:11+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/exilence/</loc>
+    <loc>/docs/exilence/</loc>
     <lastmod>2021-11-11T15:33:21+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/exilence/</loc>
+    <loc>/tools/exilence/</loc>
     <lastmod>2021-11-11T15:33:21+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/resources/</loc>
+    <loc>/docs/resources/</loc>
     <lastmod>2022-04-11T10:45:56+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tools/resources/</loc>
+    <loc>/tools/resources/</loc>
     <lastmod>2022-04-11T10:45:56+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2021-11-05T18:07:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/30/</loc>
+    <loc>/30/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

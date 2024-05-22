@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useful Path of Exile Tools on Useful PoE Tools</title>
-    <link>//localhost:1313/tools/</link>
+    <link>/tools/</link>
     <description>Recent content in Useful Path of Exile Tools on Useful PoE Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Apr 2022 10:45:56 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Builds in Path of Exile</title>
-      <link>//localhost:1313/tools/builds/</link>
+      <link>/tools/builds/</link>
       <pubDate>Fri, 05 Nov 2021 18:06:51 +0000</pubDate>
-      <guid>//localhost:1313/tools/builds/</guid>
+      <guid>/tools/builds/</guid>
       <description>&lt;p&gt;The Path of Exile forums provides a great starting point for the type of characters you would like to play.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Path of Building</title>
-      <link>//localhost:1313/tools/pathofbuilding/</link>
+      <link>/tools/pathofbuilding/</link>
       <pubDate>Fri, 05 Nov 2021 18:07:02 +0000</pubDate>
-      <guid>//localhost:1313/tools/pathofbuilding/</guid>
+      <guid>/tools/pathofbuilding/</guid>
       <description>&lt;p&gt;Path of Building (PoB) is a tool that allows Path of Exile players to simulate the skill tree and in-game equipment to evaluate builds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Loot Filters</title>
-      <link>//localhost:1313/tools/lootfilters/</link>
+      <link>/tools/lootfilters/</link>
       <pubDate>Thu, 11 Nov 2021 11:45:04 +0000</pubDate>
-      <guid>//localhost:1313/tools/lootfilters/</guid>
+      <guid>/tools/lootfilters/</guid>
       <description>&lt;p&gt;Loot filters allow you to decrease the amount of items that appear on the ground for you to click.&#xA;This increases in-game efficiency with less time spent looking at low-value items.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trade Macros</title>
-      <link>//localhost:1313/tools/trademacros/</link>
+      <link>/tools/trademacros/</link>
       <pubDate>Thu, 11 Nov 2021 12:09:11 +0000</pubDate>
-      <guid>//localhost:1313/tools/trademacros/</guid>
+      <guid>/tools/trademacros/</guid>
       <description>&lt;p&gt;Trade macros are external tools that allow players to check item values and trade for items with other players more easily.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exilence Next</title>
-      <link>//localhost:1313/tools/exilence/</link>
+      <link>/tools/exilence/</link>
       <pubDate>Thu, 11 Nov 2021 15:33:21 +0000</pubDate>
-      <guid>//localhost:1313/tools/exilence/</guid>
+      <guid>/tools/exilence/</guid>
       <description>&lt;p&gt;Exilence Next is an app that lets you track your income and net worth in Path of Exile based off the items in your stash.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Additional Resources</title>
-      <link>//localhost:1313/tools/resources/</link>
+      <link>/tools/resources/</link>
       <pubDate>Mon, 11 Apr 2022 10:45:56 +0000</pubDate>
-      <guid>//localhost:1313/tools/resources/</guid>
+      <guid>/tools/resources/</guid>
       <description>The main &amp;rsquo;tools&amp;rsquo; section of this site covers the most common tools and resources available for new players.&#xA;This section will point players towards more advanced or in-depth resources if they wish to dig deeper into Path of Exile!</description>
     </item>
   </channel>
