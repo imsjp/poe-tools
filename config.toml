@@ -4,6 +4,8 @@ title = "Useful PoE Tools"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
+css = ["static/css/custom.css"]
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true

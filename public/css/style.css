@@ -30,7 +30,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1de9b6;
+  --bs-primary: #444fce;
   --bs-secondary: #ffca28;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -94,7 +94,7 @@
   --bs-tertiary-bg: #f8f9fa;
   --bs-tertiary-bg-rgb: 248, 249, 250;
   --bs-heading-color: inherit;
-  --bs-link-color: #1de9b6;
+  --bs-link-color: #444fce;
   --bs-link-color-rgb: 29, 233, 182;
   --bs-link-decoration: none;
   --bs-link-hover-color: #7af2d4;
@@ -6097,7 +6097,7 @@ progress {
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1de9b6;
+  --bs-primary: #444fce;
   --bs-secondary: #ffca28;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -6161,7 +6161,7 @@ progress {
   --bs-tertiary-bg: #f8f9fa;
   --bs-tertiary-bg-rgb: 248, 249, 250;
   --bs-heading-color: inherit;
-  --bs-link-color: #1de9b6;
+  --bs-link-color: #444fce;
   --bs-link-color-rgb: 29, 233, 182;
   --bs-link-decoration: none;
   --bs-link-hover-color: #7af2d4;
@@ -12894,7 +12894,7 @@ progress {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #1de9b6;
+    background-color: #444fce;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -13221,7 +13221,7 @@ p {
     flex: 1; }
 
 .header {
-  color: #1de9b6;
+  color: #444fce;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -13374,16 +13374,16 @@ p {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #1de9b6; }
+        color: #444fce; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline;
-          color: #1de9b6; }
+          color: #444fce; }
       .main-menu > ul > li.active > a {
         font-weight: bold; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #1de9b6;
+  background: #444fce;
   top: 0;
   left: 0;
   width: 100%;
@@ -13475,7 +13475,7 @@ p {
     .docs-menu ul li a {
       color: #212529; }
       .docs-menu ul li a:hover {
-        color: #1de9b6; }
+        color: #444fce; }
 
 .hamburger {
   padding: 10px 0 10px 10px;
@@ -13490,7 +13490,7 @@ p {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #1de9b6; }
+    background: #444fce; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -13502,7 +13502,7 @@ p {
   white-space: nowrap;
   display: inline-block;
   padding: 8px 15px 6px 15px;
-  background: #1de9b6;
+  background: #444fce;
   font-weight: normal;
   text-transform: uppercase;
   color: white;
@@ -13666,13 +13666,13 @@ p {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #1de9b6, #ffca28); }
+  background-image: linear-gradient(to right, #444fce, #ffca28); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #1de9b6, #ffca28); }
+  background-image: linear-gradient(to bottom, #444fce, #ffca28); }
 
 .strip-primary {
-  background-color: #1de9b6; }
+  background-color: #444fce; }
 
 .strip-secondary {
   background-color: #ffca28; }
